@@ -38,7 +38,6 @@ This repository lists papers on large language model with causality.
 
 All types of contributions to this paper list is welcome. Feel free to open a Pull Request. 
 
-<!-- ## How to Cite This Repo
 ```bibtex
 @misc{anpeng2024causalLLM,
   author = {Anpeng Wu},
@@ -49,4 +48,3 @@ All types of contributions to this paper list is welcome. Feel free to open a Pu
   howpublished = {\url{https://github.com/anpwu/Awesome-Causal-LLM}}
 }
 ```
- -->
