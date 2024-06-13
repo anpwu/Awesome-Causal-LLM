@@ -1,4 +1,4 @@
-# A Simple Review on Large Language Model with Causality
+# Large Language Model with Causality
 
 This repository lists papers on large language model with causality.
 
