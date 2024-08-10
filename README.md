@@ -4,6 +4,12 @@ This repository lists papers on large language model with causality.
 
 **Contributor:** [Anpeng Wu](https://scholar.google.com/citations?user=VQ4m6zQAAAAJ).
 
+## Open Problems (we try to answer):
+1. Why do large language models (LLMs) require causality?
+2. How can causality improve the performance of LLMs?
+3. Do LLMs have the ability to understand and apply causal reasoning?
+4. What are the primary challenges faced by LLMs? How can causality help address these challenges?
+
 ## Papers
 
 1. Sara Abdali, Anjali Parikh, Steve Lim, and Emre Kiciman. Extracting self-consistent causal insights from users feedback with llms and in-context learning. arXiv preprint arXiv:2312.06820, 2023.
