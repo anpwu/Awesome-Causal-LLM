@@ -100,7 +100,6 @@ This repository lists papers on large language model with causality. The corresp
 ## Contributions
 
 All types of contributions to this paper list is welcome. Feel free to open a Pull Request. 
-Yujia Zheng, Kairong Han, Baohong Li, Guangyi Chen, Fei Wu, Kun Zhang
 ```bibtex
 @article{wu2024causality,
   title={Causality for Large Language Models: A Survey},
