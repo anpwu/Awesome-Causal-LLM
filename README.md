@@ -1,6 +1,6 @@
 # Large Language Model with Causality
 
-This repository lists papers on large language model with causality.
+This repository lists papers on large language model with causality. The corresponding survey paper is available as a preprint on [arXiv](https://arxiv.org/abs/2410.15319).
 
 **Contributor:** [Anpeng Wu](https://scholar.google.com/citations?user=VQ4m6zQAAAAJ).
 
@@ -100,14 +100,12 @@ This repository lists papers on large language model with causality.
 ## Contributions
 
 All types of contributions to this paper list is welcome. Feel free to open a Pull Request. 
-
+Yujia Zheng, Kairong Han, Baohong Li, Guangyi Chen, Fei Wu, Kun Zhang
 ```bibtex
-@misc{anpeng2024causalLLM,
-  author = {Anpeng Wu},
-  title = {Large Language Model with Causality},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/anpwu/Awesome-Causal-LLM}}
+@article{wu2024causality,
+  title={Causality for Large Language Models: A Survey},
+  author={Wu, Anpeng and Kuang, Kun and Zhu, Minqin and Wang, Yingrong and Zheng, Yujia and Han, Kairong and Li, Baohong and Chen, Guangyi and Wu, Fei and Zhang, Kun},
+  journal={arXiv preprint arXiv:2410.15319},
+  year={2024}
 }
 ```
